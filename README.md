@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-!(img/is_file.png)
+![](img/is_fine.png)
 
 <!--
 **philipkcl/philipkcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
